@@ -16,9 +16,9 @@
   },
   "homepage": "https://github.com/behaviorbot/welcome#readme",
   "dependencies": {
-    "first-pr-merge": "github:behaviorbot/first-pr-merge",
-    "new-issue-welcome": "github:behaviorbot/new-issue-welcome",
-    "new-pr-welcome": "github:behaviorbot/new-pr-welcome",
+    "first-pr-merge": "git+https://github.com/devekco/first-pr-merge.git",
+    "new-issue-welcome": "git+https://github.com/devekco/new-issue-welcome.git",
+    "new-pr-welcome": "git+https://github.com/devekco/new-pr-welcome.git",
     "probot": "^3.0.0"
   },
   "devDependencies": {
